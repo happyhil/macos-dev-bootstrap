@@ -1,0 +1,7 @@
+# dirs
+.idea/
+docs/
+
+# files
+.DS_Store
+.tool-versions

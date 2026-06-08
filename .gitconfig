@@ -1,0 +1,6 @@
+[user]
+	name = Simon D. Vreugdenhil
+	email = simonvreugdenhil@gmail.com
+[core]
+	editor = nano
+	excludesfile = /Users/simonvreugdenhil/.gitignore_global
