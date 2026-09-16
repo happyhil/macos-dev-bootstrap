@@ -1,6 +1,7 @@
 brew "asdf"
 brew "gh"
 brew "glab"
+brew "gnupg"
 brew "pipx"
 brew "python@3.10"
 brew "python@3.11"
